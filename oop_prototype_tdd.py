@@ -1,4 +1,6 @@
-import oop_prototype_classes, unittest
+import unittest
+
+from oop_prototype_classes import Herbicide
 
 class TddforHerbicideProject(unittest.TestCase):
 
